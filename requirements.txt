@@ -1,0 +1,5 @@
+streamlit == 1.29.0
+SQLAlchemy == 2.0.23
+llama_index == 0.9.10
+langchain == 0.0.345
+SQLAlchemy == 2.0.23
